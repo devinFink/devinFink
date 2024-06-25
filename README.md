@@ -18,34 +18,60 @@
 
 
 ### Glad to see you here!  
-My name is Devin Fink, and I am a rising junior at the University of Utah. I'm studying Computer Science and Game Development with the School of Games. Currently I'm building a game in Unity with a small group of amazing people called Elemental Engagements. It's a fun, pick-up-and-play casual split-screen RTS for PC. In addition, I work with the University as a QA Automation Intern, learning various technologies to build and test the wide variety of applications that the University runs.
-
-In my spare time, I do coding challenges such as [Advent Of Code](https://github.com/devinFink/Advent-Of-Code-2023), spend time with my wife and puppy, and play the games that inspired me to want to become a Dev in the future.  
+My name is Devin Fink, and I am a rising Senior at the University of Utah. I'm studying Computer Science and Game Development with the School of Games. Recently I just finished building a game with a group of students called Immunity Wars. It's a fun, fast-paced hex-based tactical game for PC. In addition, I work with the WebstaurantStore as a QA Automation Intern, writing automated tests to keep the site up and give customers the best possible experience. 
+In my spare time, I spend time with my wife and puppy, hike the beautiful mountains of Utah, and play the games that inspired me to want to become a Dev in the future.  
   
 
 <br/>  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Elemental Engagements](https://github.com/LiamDHealey/Elemental-Engagement)  
+- 🔭 I just finished [Immunity Wars]((https://store.steampowered.com/app/2957280/Immunity_Wars/)). (Check it out on Steam!)
   
 
-- 🛠️ I currently work as a QA Automation Intern for the University of Utah  
+- 🛠️ I currently work as a QA Automation Intern for Clark Associates
   
 
-- 🎓 I plan to graduate in Spring of 2026  
+- 🎓 I plan to graduate in the Fall of 2025
 
 
-</td><td valign="top" width="50%">
+## Finished Games
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h1>Elemental Engagements</h1>
+      <p>
+        <span>Elemental Engagements is a fast-paced, super casual RTS built for split-screen play!</span>
+        <span>Players take command of the Elemental God of Wind and attempt to earn favor with the other Elements.</span>
+        <span>As you gain favor, earn more units corresponding to other Gods and unleash devastating God powers!</span>
+      </p>
+    </td>
+    <td valign="top" width="50%">
 
 <div align="center">
 <img src="https://github.com/devinFink/devinFink/assets/32079202/f0a6ad27-2ae7-43df-bc98-92ad796faa88" align="center" style="width: 100%" />
 </div>  
 
+</td></tr>
+ <tr>
+    <td valign="top" width="50%">
+      <h1>Immunity Wars</h1>
+      <p>
+        <span>Immunity Wars is an exciting hex-grid-based tactical game set in the bodies immune system.
+          Designed uniquely to teach concepts of the immune system while you play, each unit and enemy has been
+          designed to act similarly to their real-life counterpart. Work through 2 campaigns plus an ultimate challenge 
+          to test all of your skills!</span>
+      </p>
+    </td>
+    <td valign="top" width="50%">
 
-</td></tr></table>  
+<div align="center">
+<img src="https://github.com/devinFink/devinFink/assets/32079202/fe181241-06ba-4fc0-af43-beed9cdfec4a" align="center" style="width: 100%" />
+</div>  
+</td></tr>
+
+</table>  
 
 <br/>  
 
@@ -55,8 +81,7 @@ In my spare time, I do coding challenges such as [Advent Of Code](https://github
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
