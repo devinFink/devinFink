@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-My name is Devin Fink, and I am a rising Senior at the University of Utah. I'm studying Computer Science and Game Development with the School of Games. Recently I just finished building a game with a group of students called Immunity Wars. It's a fun, fast-paced hex-based tactical game for PC. In addition, I work with the WebstaurantStore as a QA Automation Intern, writing automated tests to keep the site up and give customers the best possible experience. 
+My name is Devin Fink, and I am a Junior at the University of Utah. I'm studying Computer Science and Game Development with the School of Games. Recently I just finished building a game with a group of students called Immunity Wars. It's a fun, fast-paced hex-based tactical game for PC. In addition, I work with the WebstaurantStore as a QA Automation Intern, writing automated tests to keep the site up and give customers the best possible experience. 
 In my spare time, I spend time with my wife and puppy, hike the beautiful mountains of Utah, and play the games that inspired me to want to become a Dev in the future.  
   
 
