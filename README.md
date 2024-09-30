@@ -30,9 +30,6 @@ In my spare time, I spend time with my wife and puppy, hike the beautiful mounta
 - 🔭 I just finished [Immunity Wars]((https://store.steampowered.com/app/2957280/Immunity_Wars/)). (Check it out on Steam!)
   
 
-- 🛠️ I'm currently learning the SDL2 framework for C++
-  
-
 - 🎓 I plan to graduate in the Fall of 2025
 
 
