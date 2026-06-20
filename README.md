@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a software engineer with a B.S. in Computer Science (Entertainment Arts & Engineering emphasis) from the University of Utah. I like building things from the ground up: renderers, simulations, and game systems where performance and correctness both matter. I've shipped three games, including Clockwork Sword, an isometric action game built with a full student production team, and Immunity Wars, which is live on Steam.
+I'm a software engineer with a B.S. in Computer Science (Entertainment Arts & Engineering emphasis) from the University of Utah. I like building things from the ground up: renderers, simulations, and game systems where performance and correctness both matter. I've shipped three games, including Clockwork Sword, an isometric action game built with a full student production team, and Immunity Wars, a polished tactical game about fighting diseases within the body.
 
 My day job is building and testing production systems in C#/.NET. Outside of that I'm usually deep in a C++ side project, most recently a CPU ray tracer and a GPU-based agent simulation.
 
@@ -24,13 +24,13 @@ Outside of code, I'm hiking the mountains around Salt Lake City with my wife and
 
 ## Featured Projects
 
-### ⚔️ Clockwork Sword — *Shipped*
+### ⚔️ [Clockwork Sword](https://store.steampowered.com/app/3433330/Clockwork_Sword/) — *Live on steam*
 A fast-paced isometric action game set in a dark steampunk world, built with a full student production team through the U of U's School of Games. It's my largest-scale shipped project to date.
 
-### 🎮 [Immunity Wars](https://store.steampowered.com/app/2957280/Immunity_Wars/) — *Shipped on Steam*
+### 🎮 [Immunity Wars](https://store.steampowered.com/app/2957280/Immunity_Wars/) — *Live on Steam*
 A hex-grid tactical game set inside the human immune system. Units and enemies are designed to mirror their real biological counterparts, so the mechanics double as a way to learn immunology while you play. Two campaigns plus an endgame challenge mode.
 
-### 🌀 Elemental Engagements — *Shipped*
+### 🌀 [Elemental Engagements](https://store.steampowered.com/app/2748400/Elemental_Engagements/) — *Live on Steam*
 A super-casual split-screen RTS. Players command the Elemental God of Wind, earn favor with the other Elements, and unlock new unit types and devastating god powers as they go.
 
 ### 🔺 CPU Ray Tracer — C++
