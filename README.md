@@ -33,10 +33,10 @@ A hex-grid tactical game set inside the human immune system. Units and enemies a
 ### 🌀 [Elemental Engagements](https://store.steampowered.com/app/2748400/Elemental_Engagements/) — *Live on Steam*
 A super-casual split-screen RTS. Players command the Elemental God of Wind, earn favor with the other Elements, and unlock new unit types and devastating god powers as they go.
 
-### 🔺 CPU Ray Tracer — C++
+### 🔺 [CPU Ray Tracer — C++](https://github.com/devinFink/RayTracer)
 A multithreaded, from-scratch ray tracer. It uses BVH acceleration with Möller–Trumbore triangle intersection for fast traversal, Monte Carlo indirect lighting, and photon/caustic maps for realistic light transport. Built to learn the rendering pipeline from the math up, not just call into one.
 
-### 🧫 3D Physarum Simulation — Unity / HLSL
+### 🧫 [3D Physarum Simulation — Unity / HLSL](https://github.com/LiamDHealey/Slime-Mold-Simulator)
 A real-time, GPU-resident agent-based growth simulation. Thousands of agents run entirely on compute shaders, and a custom fragment shader ray-marches through a 3D texture volume to render the result volumetrically.
 
 <br/>
