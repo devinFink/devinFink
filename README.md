@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Devin Fink 👋
+# Hi, I'm Devin Fink
 
 **Graphics & Gameplay Programmer (C++/HLSL)** — building renderers, simulations, and games from first principles.
 
