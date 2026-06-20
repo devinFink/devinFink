@@ -36,7 +36,7 @@ A super-casual split-screen RTS. Players command the Elemental God of Wind, earn
 ### 🔺 [CPU Ray Tracer — C++](https://github.com/devinFink/RayTracer)
 A multithreaded, from-scratch ray tracer. It uses BVH acceleration with Möller–Trumbore triangle intersection for fast traversal, Monte Carlo indirect lighting, and photon/caustic maps for realistic light transport. Built to learn the rendering pipeline from the math up, not just call into one.
 
-### 🧫 [3D Physarum Simulation — Unity / HLSL](https://github.com/LiamDHealey/Slime-Mold-Simulator)
+### 🧫 [3D Physarum Simulation — Unity / HLSL](https://liamhealey.itch.io/slime-mold-simulation)
 A real-time, GPU-resident agent-based growth simulation. Thousands of agents run entirely on compute shaders, and a custom fragment shader ray-marches through a 3D texture volume to render the result volumetrically.
 
 <br/>
