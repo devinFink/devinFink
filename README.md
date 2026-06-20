@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Devin Fink
+# Hi, I'm Devin Fink 👋
 
-**Graphics & Gameplay Programmer (C++/HLSL)** — building renderers, simulations, and games from first principles.
+**Graphics & Gameplay Programmer (C++/HLSL).** I build renderers, simulations, and games from first principles.
 
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/devinFink)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devin-fink-727450235/)
@@ -14,30 +14,30 @@
 
 ## About
 
-I'm a software engineer with a B.S. in Computer Science (Entertainment Arts & Engineering emphasis) from the University of Utah. I like building things from the ground up — renderers, simulations, and game systems where performance and correctness both matter. **Immunity Wars**, a hex-grid tactics game I helped build, is live on Steam.
+I'm a software engineer with a B.S. in Computer Science (Entertainment Arts & Engineering emphasis) from the University of Utah. I like building things from the ground up: renderers, simulations, and game systems where performance and correctness both matter. I've shipped three games, including Clockwork Sword, an isometric action game built with a full student production team, and Immunity Wars, which is live on Steam.
 
-Day to day, I work as a software engineer building and testing production systems in C#/.NET. Outside of that, I'm usually deep in a C++ side project — most recently a CPU ray tracer and a GPU-based agent simulation.
+My day job is building and testing production systems in C#/.NET. Outside of that I'm usually deep in a C++ side project, most recently a CPU ray tracer and a GPU-based agent simulation.
 
-When I'm not at the keyboard: hiking the mountains around Salt Lake City with my wife and our dog, and playing the games that made me want to do this in the first place.
+Outside of code, I'm hiking the mountains around Salt Lake City with my wife and our dog, or playing the games that made me want to do this in the first place.
 
 <br/>
 
 ## Featured Projects
 
+### ⚔️ Clockwork Sword — *Shipped*
+A fast-paced isometric action game set in a dark steampunk world, built with a full student production team through the U of U's School of Games. It's my largest-scale shipped project to date.
+
 ### 🎮 [Immunity Wars](https://store.steampowered.com/app/2957280/Immunity_Wars/) — *Shipped on Steam*
 A hex-grid tactical game set inside the human immune system. Units and enemies are designed to mirror their real biological counterparts, so the mechanics double as a way to learn immunology while you play. Two campaigns plus an endgame challenge mode.
 
-### ⚔️ Clockwork Sword
-A fast-paced isometric action game set in a dark steampunk world, built with a team of students through the U of U's School of Games.
-
-### 🌀 Elemental Engagements
+### 🌀 Elemental Engagements — *Shipped*
 A super-casual split-screen RTS. Players command the Elemental God of Wind, earn favor with the other Elements, and unlock new unit types and devastating god powers as they go.
 
 ### 🔺 CPU Ray Tracer — C++
-A multithreaded, from-scratch ray tracer. BVH acceleration with Möller–Trumbore triangle intersection for fast traversal, Monte Carlo indirect lighting, and photon/caustic maps for realistic light transport. Built to learn the rendering pipeline from the math up, not just call into one.
+A multithreaded, from-scratch ray tracer. It uses BVH acceleration with Möller–Trumbore triangle intersection for fast traversal, Monte Carlo indirect lighting, and photon/caustic maps for realistic light transport. Built to learn the rendering pipeline from the math up, not just call into one.
 
 ### 🧫 3D Physarum Simulation — Unity / HLSL
-A real-time, GPU-resident agent-based growth simulation. Thousands of agents run entirely on compute shaders; a custom fragment shader ray-marches through a 3D texture volume to render the result volumetrically.
+A real-time, GPU-resident agent-based growth simulation. Thousands of agents run entirely on compute shaders, and a custom fragment shader ray-marches through a 3D texture volume to render the result volumetrically.
 
 <br/>
 
